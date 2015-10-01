@@ -42,6 +42,15 @@
                 {% endif %}
             {% endfor %}
         </ul>
+        <ul class="pull-right hidden-xs">
+        {% for lang in site.languages %}
+            {% if lang != site.lang and forloop.index0 != 0 %}
+                <li><a href="{{ site.baseurl_root | append: '/' | append: lang | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ lang }}</a></li>
+            {% elsif lang != site.lang %}
+                <li><a href="{{ site.baseurl_root | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ lang }}</a></li>
+            {% endif %}
+        {% endfor %}
+        </ul>
         {% for rightNavigationButton in site.data.[site.lang].general.navigation.rightButtons %}
         <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
