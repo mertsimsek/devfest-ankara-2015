@@ -1,11 +1,11 @@
 # Site Settings
 title: "GDG DevFest Ankara 2015"
 email: "contact@gdgankara.org"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest tüm dünyada yapılan etkinlikler dizisidir"
 enablePreloader: false
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, ankara, turkey"
+metaKeywords: "etkinlik, gdg, devfest, google, programlama, android, chrome, developers, geliştiriciler, ankara, türkiye"
 twitterAccount: "@gdgankara"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -15,14 +15,14 @@ themeColor: "#03a9f4"
 # Organizer Info
 organizerName: "GDG Ankara"
 organizerAlternateName: "Google Developer Group Ankara"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Ankara çapında teknolojiye ilgi duyan, bir şeyler geliştirmek ve bilgi paylaşımında bulunmak isteyen insanlardan oluşan bir topluluğuz."
 organizerEmail: "contact@gdgankara.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgankara.org"
 
 # Documents
 c4pUrl: "#cfplink"
-c4pButton: "Become a speaker"
+c4pButton: "Konuşmacı ol"
 
 # Varibles
 googleAnalyticsTrackingId: "UA-43643469-7"
@@ -31,5 +31,5 @@ disqusShortName: "devfestua"
 
 # i18n
 languages:
-  en: Ingilizce
-  tr: Turkce
+  en: İngilizce
+  tr: Türkçe

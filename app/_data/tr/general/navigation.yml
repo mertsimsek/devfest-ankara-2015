@@ -1,10 +1,10 @@
 links:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Anasayfa"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Venue"}
+ - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Konuşmacılar"}
+ - {permalink: "/logistics/", text: "Ulaşım"}
 bottomLinks:
- - {link: "#cfplink", text: "Become a speaker"}
+ - {link: "#cfplink", text: "Konuşmacı ol"}
 rightButtons:
- - {link: "#cfplink", text: "Become a speaker"}
+ - {link: "#cfplink", text: "Konuşmacı ol"}
