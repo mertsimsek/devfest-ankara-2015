@@ -1,9 +1,9 @@
 - 
   date: "2015-11-14"
-  dateReadable: "November 14"
+  dateReadable: "14 Kasım"
   tracks: 
-    - {title: "Hall A", color: "#90be4e"}
-    - {title: "Hall C", color: "#03a9f4"}
+    - {title: "Salon A", color: "#90be4e"}
+    - {title: "Salon C", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:00",

@@ -1,13 +1,13 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: "Kahve Arası
+  place: "Etkinlik Alanı"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Öğle Arası"
+  place: "Etkinlik Alanı"
   service: true
 -
   id: 001

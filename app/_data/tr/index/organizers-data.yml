@@ -1,5 +1,5 @@
 - 
-  group: "Organizers"
+  group: "Organizatörler"
   elements: 
-    - {name: "GDG Ankara", description: "GDG Ankara - Open and volunteer geek community", link: "http://gdgankara.org", imageUrl: "gdgAnkara.png"}
+    - {name: "GDG Ankara", description: "GDG Ankara", link: "http://gdgankara.org", imageUrl: "gdgAnkara.png"}
     - {name: "IEEE METU", description: "IEEE METU", link: "http://www.ieee.metu.edu.tr/", imageUrl: "ieeeOdtu.png"}

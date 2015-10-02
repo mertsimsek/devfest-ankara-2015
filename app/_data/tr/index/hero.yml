@@ -1,8 +1,8 @@
 image: "hero.jpg"
 title: "GDG DevFest <typeout> 2015"
-eventDate: "November 14th, 2015"
-typeoutTextValues: '"", " Ankara", " Turkey", "Conference", " Workshop"'
-typeoutFallback: "Season"
+eventDate: "14 Kasım 2015"
+typeoutTextValues: '"", " Ankara", " Türkiye", "Konferans", "Çalıştay"'
+typeoutFallback: "Sezon"
 buttons:
- - {link: "#cfplink", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register to Event"}
+ - {link: "#cfplink", text: "Konuşmacı ol"}
+ - {permalink: "/#tickets", text: "Etkinliğe Kaydol"}

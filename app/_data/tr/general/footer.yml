@@ -1,4 +1,4 @@
-languagesTitle: "Languages"
+languagesTitle: "Diller"
 socialLinks:
  - {link: "https://plus.google.com/u/0/+GdgankaraOrg/posts", icon: "google-plus"}
  - {link: "https://twitter.com/gdgankara", icon: "twitter"}
@@ -6,15 +6,15 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
-  title: "Links"
+  title: "Linkler"
   links:
    - {link: "http://gdgankara.org", text: "Gdgankara.org"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "İletişim"
   links:
    - {link: "mailto:contact@gdgankara.org", text: "contact@gdgankara.org"}
  -
-  title: "FAQ"
+  title: "SSS"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Davranış Kuralları"}

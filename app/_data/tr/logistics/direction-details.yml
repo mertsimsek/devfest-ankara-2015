@@ -1,16 +1,16 @@
 image: "direction-details.jpg"
-title: "Get around Ankara"
+title: "Ankara ve Ulaşım"
 cards:
- - {title: "Venue", information: 'Venue is in Middle East Technical University. <a href="/2015/metu-ccm/">Here</a> is the details about the venue.'}
- - {title: "From the Airport", information: 'Venue is easily reachable by car, public transport or taxi to the venue. More information is available <a href="/2015/from-airport/">here</a>.'}
- - {title: "To the Airport", information: 'Airport is easily reachable by car, public transport or taxi from the venue. More information is available <a href="/2015/to-airport/">here</a>.'}
- - {title: "Ankara Attractions", information: '<a href="/2015/ankara/">Here</a> is the info about what you can in Ankara.'}
+ - {title: "Konferans Mekanı", information: 'Konferans mekanı ODTÜ içerisinde. Ayrıntılı bilgi için <a href="/2015/metu-ccm/">tıklayınız</a>'}
+ - {title: "Havaalanından Konferans Mekanına", information: 'Havaalanından konferans mekanına ulaşım araba,toplu taşıma ve taksi ile kolaylıkla yapılabilmektedir. Ayrıntılar için <a href="/2015/from-airport/">tıklayınız</a>.'}
+ - {title: "Konferans Mekanından Havaalanına", information: 'Konferans mekanından havaalanına ulaşım araba,toplu taşıma ve taksi ile kolaylıkla yapılabilmektedir. Ayrıntılar için <a href="/2015/to-airport/">tıklayınız</a>.'}
+ - {title: "Ankara Attractions", information: 'Ankara hakkında bilgiler ve yapabileceğiniz aktiviteler bu <a href="/2015/ankara/">sayfada</a>.'}
 wideCards:
  -
-  title: "Questions?"
+  title: "Sorularınız?"
   subCards:
    -
-    title: "Hotels"
+    title: "Oteller"
     links:
      - {link: "http://www.moevenpick-hotels.com/en/europe/turkey/ankara/hotel-ankara/overview/", text: "Mövenpick"}
      - {link: "http://www.gaziparkhotel.com/", text: "Gazi Park Hotel"}

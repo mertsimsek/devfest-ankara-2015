@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
- - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "24", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "12", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "500", specialCharacter: "+", info: "katılımcı", detail: "heryerden"}
+ - {count: "24", specialCharacter: "+", info: "saat", detail: "Google teknolojileri"}
+ - {count: "12", specialCharacter: "+", info: "konuşmacı", detail: "ülkeden ve yurtdışından"}
+ - {count: "2", specialCharacter: "", info: "paralel oturum", detail: "artı eğlence alanı"}
