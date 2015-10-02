@@ -5,7 +5,7 @@ description: "GDG DevFest tüm dünyada yapılan etkinlikler dizisidir"
 enablePreloader: false
 
 # Head
-metaKeywords: "etkinlik, gdg, devfest, google, programlama, android, chrome, geliştiriciler, ankara, türkiye"
+metaKeywords: "etkinlik, gdg, devfest, google, programlama, android, chrome, developers, geliştiriciler, ankara, türkiye"
 twitterAccount: "@gdgankara"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
