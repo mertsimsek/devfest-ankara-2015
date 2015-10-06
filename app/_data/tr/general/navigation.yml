@@ -5,6 +5,6 @@ links:
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/logistics/", text: "Ulaşım"}
 bottomLinks:
- - {link: "#cfplink", text: "Konuşmacı ol"}
+ - {link: "http://bit.ly/1L0INvi", text: "Konuşmacı ol"}
 rightButtons:
- - {link: "#cfplink", text: "Konuşmacı ol"}
+ - {link: "http://bit.ly/1L0INvi", text: "Konuşmacı ol"}

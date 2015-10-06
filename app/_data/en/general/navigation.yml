@@ -5,6 +5,6 @@ links:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Venue"}
 bottomLinks:
- - {link: "#cfplink", text: "Become a speaker"}
+ - {link: "http://bit.ly/1L0INvi", text: "Become a speaker"}
 rightButtons:
- - {link: "#cfplink", text: "Become a speaker"}
+ - {link: "http://bit.ly/1L0INvi", text: "Become a speaker"}
