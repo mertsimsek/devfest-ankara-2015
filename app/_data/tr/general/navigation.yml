@@ -1,7 +1,6 @@
 links:
  - {permalink: "/", text: "Anasayfa"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/logistics/", text: "Ulaşım"}
 bottomLinks:

@@ -2,3 +2,7 @@
   group: "Festival sponsoru"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+- 
+  group: "Destekleri ile"
+  elements: 
+    - {name: "ODTU Teknokent", description: "ODTU Teknokent", link: "http://www.odtuteknokent.com.tr/", imageUrl: "odtu_teknokent.png"}
