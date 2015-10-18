@@ -11,12 +11,3 @@ offers:
   buyButtonText: "Hemen Al"
   validFrom: "2015-02-01T10:00"
   validThrough: "2015-05-12T23:59"
- -
-  name: "Ücretsiz Bilet Google+"
-  price: "Ücretsiz"
-  priceCurrency: ""
-  ticketsNumber: "sınırsız"
-  buyButtonLink: "http://bit.ly/1P8uGcq"
-  buyButtonText: "Hemen Al"
-  validFrom: "2015-10-01T10:00"
-  validThrough: "2015-11-14T23:59"
