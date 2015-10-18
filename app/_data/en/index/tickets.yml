@@ -11,12 +11,3 @@ offers:
   buyButtonText: "Register"
   validFrom: "2015-10-01T10:00"
   validThrough: "2015-11-14T23:59"
- -
-  name: "Free Ticket Google+"
-  price: "Free"
-  priceCurrency: ""
-  ticketsNumber: "unlimited"
-  buyButtonLink: "http://bit.ly/1P8uGcq"
-  buyButtonText: "Register"
-  validFrom: "2015-10-01T10:00"
-  validThrough: "2015-11-14T23:59"
