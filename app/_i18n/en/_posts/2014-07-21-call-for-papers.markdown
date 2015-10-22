@@ -48,7 +48,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](#cfplink).
+#### Please submit your proposals [here](http://bit.ly/1L0INvi).
 __Deadline__ is November 1st, 2015
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>

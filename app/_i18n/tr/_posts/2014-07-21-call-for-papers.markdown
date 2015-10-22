@@ -4,7 +4,6 @@ title:  "Call for Papers"
 date:   2015-10-01 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ankara 2015 will be held 14th of November in capital of Turkey. If you want to be part of this great event and community go ahead and fill the form.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -48,7 +47,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](#cfplink).
+#### Please submit your proposals [here](http://bit.ly/1L0INvi).
 __Deadline__ is November 1st, 2015
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
